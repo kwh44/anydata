@@ -1,0 +1,710 @@
+{
+    "Afghanistan": {
+        "numericCode": 4,
+        "population": 27657145
+    },
+    "Albania": {
+        "numericCode": 8,
+        "population": 2886026
+    },
+    "Algeria": {
+        "numericCode": 12,
+        "population": 40400000
+    },
+    "Andorra": {
+        "numericCode": 20,
+        "population": 78014
+    },
+    "Angola": {
+        "numericCode": 24,
+        "population": 25868000
+    },
+    "Antigua and Barbuda": {
+        "numericCode": 28,
+        "population": 86295
+    },
+    "Argentina": {
+        "numericCode": 32,
+        "population": 43590400
+    },
+    "Armenia": {
+        "numericCode": 51,
+        "population": 2994400
+    },
+    "Australia": {
+        "numericCode": 36,
+        "population": 24117360
+    },
+    "Austria": {
+        "numericCode": 40,
+        "population": 8725931
+    },
+    "Azerbaijan": {
+        "numericCode": 31,
+        "population": 9730500
+    },
+    "Bahamas": {
+        "numericCode": 44,
+        "population": 378040
+    },
+    "Bahrain": {
+        "numericCode": 48,
+        "population": 1404900
+    },
+    "Bangladesh": {
+        "numericCode": 50,
+        "population": 161006790
+    },
+    "Barbados": {
+        "numericCode": 52,
+        "population": 285000
+    },
+    "Belarus": {
+        "numericCode": 112,
+        "population": 9498700
+    },
+    "Belgium": {
+        "numericCode": 56,
+        "population": 11319511
+    },
+    "Belize": {
+        "numericCode": 84,
+        "population": 370300
+    },
+    "Benin": {
+        "numericCode": 204,
+        "population": 10653654
+    },
+    "Bhutan": {
+        "numericCode": 64,
+        "population": 775620
+    },
+    "Bolivia": {
+        "numericCode": 68,
+        "population": 10985059
+    },
+    "Bosnia and Herzegovina": {
+        "numericCode": 70,
+        "population": 3531159
+    },
+    "Botswana": {
+        "numericCode": 72,
+        "population": 2141206
+    },
+    "Brazil": {
+        "numericCode": 76,
+        "population": 206135893
+    },
+    "Brunei": {
+        "numericCode": 96,
+        "population": 411900
+    },
+    "Bulgaria": {
+        "numericCode": 100,
+        "population": 7153784
+    },
+    "Burkina Faso": {
+        "numericCode": 854,
+        "population": 19034397
+    },
+    "Burma": {
+        "numericCode": 104,
+        "population": 51419420
+    },
+    "Burundi": {
+        "numericCode": 108,
+        "population": 10114505
+    },
+    "Cabo Verde": {
+        "numericCode": 132,
+        "population": 531239
+    },
+    "Cambodia": {
+        "numericCode": 116,
+        "population": 15626444
+    },
+    "Cameroon": {
+        "numericCode": 120,
+        "population": 22709892
+    },
+    "Canada": {
+        "numericCode": 124,
+        "population": 36155487
+    },
+    "Central African Republic": {
+        "numericCode": 140,
+        "population": 4998000
+    },
+    "Chad": {
+        "numericCode": 148,
+        "population": 14497000
+    },
+    "Chile": {
+        "numericCode": 152,
+        "population": 18191900
+    },
+    "China": {
+        "numericCode": 156,
+        "population": 1377422166
+    },
+    "Colombia": {
+        "numericCode": 170,
+        "population": 48759958
+    },
+    "Comoros": {
+        "numericCode": 174,
+        "population": 806153
+    },
+    "Costa Rica": {
+        "numericCode": 188,
+        "population": 4890379
+    },
+    "Cote d'Ivoire": {
+        "numericCode": 384,
+        "population": 22671331
+    },
+    "Croatia": {
+        "numericCode": 191,
+        "population": 4190669
+    },
+    "Cuba": {
+        "numericCode": 192,
+        "population": 11239004
+    },
+    "Cyprus": {
+        "numericCode": 196,
+        "population": 847000
+    },
+    "Denmark": {
+        "numericCode": 208,
+        "population": 5717014
+    },
+    "Djibouti": {
+        "numericCode": 262,
+        "population": 900000
+    },
+    "Dominica": {
+        "numericCode": 212,
+        "population": 71293
+    },
+    "Dominican Republic": {
+        "numericCode": 214,
+        "population": 10075045
+    },
+    "Ecuador": {
+        "numericCode": 218,
+        "population": 16545799
+    },
+    "Egypt": {
+        "numericCode": 818,
+        "population": 91290000
+    },
+    "El Salvador": {
+        "numericCode": 222,
+        "population": 6520675
+    },
+    "Equatorial Guinea": {
+        "numericCode": 226,
+        "population": 1222442
+    },
+    "Eritrea": {
+        "numericCode": 232,
+        "population": 5352000
+    },
+    "Estonia": {
+        "numericCode": 233,
+        "population": 1315944
+    },
+    "Eswatini": {
+        "numericCode": 748,
+        "population": 1132657
+    },
+    "Ethiopia": {
+        "numericCode": 231,
+        "population": 92206005
+    },
+    "Fiji": {
+        "numericCode": 242,
+        "population": 867000
+    },
+    "Finland": {
+        "numericCode": 246,
+        "population": 5491817
+    },
+    "France": {
+        "numericCode": 250,
+        "population": 66710000
+    },
+    "Gabon": {
+        "numericCode": 266,
+        "population": 1802278
+    },
+    "Gambia": {
+        "numericCode": 270,
+        "population": 1882450
+    },
+    "Georgia": {
+        "numericCode": 268,
+        "population": 3720400
+    },
+    "Germany": {
+        "numericCode": 276,
+        "population": 81770900
+    },
+    "Ghana": {
+        "numericCode": 288,
+        "population": 27670174
+    },
+    "Greece": {
+        "numericCode": 300,
+        "population": 10858018
+    },
+    "Grenada": {
+        "numericCode": 308,
+        "population": 103328
+    },
+    "Guatemala": {
+        "numericCode": 320,
+        "population": 16176133
+    },
+    "Guinea": {
+        "numericCode": 324,
+        "population": 12947000
+    },
+    "Guinea-Bissau": {
+        "numericCode": 624,
+        "population": 1547777
+    },
+    "Guyana": {
+        "numericCode": 328,
+        "population": 746900
+    },
+    "Haiti": {
+        "numericCode": 332,
+        "population": 11078033
+    },
+    "Holy See": {
+        "numericCode": 336,
+        "population": 451
+    },
+    "Honduras": {
+        "numericCode": 340,
+        "population": 8576532
+    },
+    "Hungary": {
+        "numericCode": 348,
+        "population": 9823000
+    },
+    "Iceland": {
+        "numericCode": 352,
+        "population": 334300
+    },
+    "India": {
+        "numericCode": 356,
+        "population": 1295210000
+    },
+    "Indonesia": {
+        "numericCode": 360,
+        "population": 258705000
+    },
+    "Iraq": {
+        "numericCode": 368,
+        "population": 37883543
+    },
+    "Ireland": {
+        "numericCode": 372,
+        "population": 6378000
+    },
+    "Israel": {
+        "numericCode": 376,
+        "population": 8527400
+    },
+    "Italy": {
+        "numericCode": 380,
+        "population": 60665551
+    },
+    "Jamaica": {
+        "numericCode": 388,
+        "population": 2723246
+    },
+    "Japan": {
+        "numericCode": 392,
+        "population": 126960000
+    },
+    "Jordan": {
+        "numericCode": 400,
+        "population": 9531712
+    },
+    "Kazakhstan": {
+        "numericCode": 398,
+        "population": 17753200
+    },
+    "Kenya": {
+        "numericCode": 404,
+        "population": 47251000
+    },
+    "Kosovo": {
+        "numericCode": null,
+        "population": 1733842
+    },
+    "Kuwait": {
+        "numericCode": 414,
+        "population": 4183658
+    },
+    "Kyrgyzstan": {
+        "numericCode": 417,
+        "population": 6047800
+    },
+    "Laos": {
+        "numericCode": 418,
+        "population": 6492400
+    },
+    "Latvia": {
+        "numericCode": 428,
+        "population": 1961600
+    },
+    "Lebanon": {
+        "numericCode": 422,
+        "population": 5988000
+    },
+    "Lesotho": {
+        "numericCode": 426,
+        "population": 1894194
+    },
+    "Liberia": {
+        "numericCode": 430,
+        "population": 4615000
+    },
+    "Libya": {
+        "numericCode": 434,
+        "population": 6385000
+    },
+    "Liechtenstein": {
+        "numericCode": 438,
+        "population": 37623
+    },
+    "Lithuania": {
+        "numericCode": 440,
+        "population": 2872294
+    },
+    "Luxembourg": {
+        "numericCode": 442,
+        "population": 576200
+    },
+    "Madagascar": {
+        "numericCode": 450,
+        "population": 22434363
+    },
+    "Malawi": {
+        "numericCode": 454,
+        "population": 16832910
+    },
+    "Malaysia": {
+        "numericCode": 458,
+        "population": 31405416
+    },
+    "Maldives": {
+        "numericCode": 462,
+        "population": 344023
+    },
+    "Mali": {
+        "numericCode": 466,
+        "population": 18135000
+    },
+    "Malta": {
+        "numericCode": 470,
+        "population": 425384
+    },
+    "Mauritania": {
+        "numericCode": 478,
+        "population": 3718678
+    },
+    "Mauritius": {
+        "numericCode": 480,
+        "population": 1262879
+    },
+    "Mexico": {
+        "numericCode": 484,
+        "population": 122273473
+    },
+    "Moldova": {
+        "numericCode": 498,
+        "population": 3553100
+    },
+    "Monaco": {
+        "numericCode": 492,
+        "population": 38400
+    },
+    "Mongolia": {
+        "numericCode": 496,
+        "population": 3093100
+    },
+    "Montenegro": {
+        "numericCode": 499,
+        "population": 621810
+    },
+    "Morocco": {
+        "numericCode": 504,
+        "population": 33337529
+    },
+    "Mozambique": {
+        "numericCode": 508,
+        "population": 26423700
+    },
+    "Namibia": {
+        "numericCode": 516,
+        "population": 2324388
+    },
+    "Nepal": {
+        "numericCode": 524,
+        "population": 28431500
+    },
+    "Netherlands": {
+        "numericCode": 528,
+        "population": 17019800
+    },
+    "New Zealand": {
+        "numericCode": 554,
+        "population": 4697854
+    },
+    "Nicaragua": {
+        "numericCode": 558,
+        "population": 6262703
+    },
+    "Niger": {
+        "numericCode": 562,
+        "population": 20715000
+    },
+    "Nigeria": {
+        "numericCode": 566,
+        "population": 186988000
+    },
+    "Norway": {
+        "numericCode": 578,
+        "population": 5223256
+    },
+    "Oman": {
+        "numericCode": 512,
+        "population": 4420133
+    },
+    "Pakistan": {
+        "numericCode": 586,
+        "population": 194125062
+    },
+    "Panama": {
+        "numericCode": 591,
+        "population": 3814672
+    },
+    "Papua New Guinea": {
+        "numericCode": 598,
+        "population": 8083700
+    },
+    "Paraguay": {
+        "numericCode": 600,
+        "population": 6854536
+    },
+    "Peru": {
+        "numericCode": 604,
+        "population": 31488700
+    },
+    "Philippines": {
+        "numericCode": 608,
+        "population": 103279800
+    },
+    "Poland": {
+        "numericCode": 616,
+        "population": 38437239
+    },
+    "Portugal": {
+        "numericCode": 620,
+        "population": 10374822
+    },
+    "Qatar": {
+        "numericCode": 634,
+        "population": 2587564
+    },
+    "Romania": {
+        "numericCode": 642,
+        "population": 19861408
+    },
+    "Russia": {
+        "numericCode": 643,
+        "population": 146599183
+    },
+    "Rwanda": {
+        "numericCode": 646,
+        "population": 11553188
+    },
+    "Saint Kitts and Nevis": {
+        "numericCode": 659,
+        "population": 46204
+    },
+    "Saint Lucia": {
+        "numericCode": 662,
+        "population": 186000
+    },
+    "Saint Vincent and the Grenadines": {
+        "numericCode": 670,
+        "population": 109991
+    },
+    "San Marino": {
+        "numericCode": 674,
+        "population": 33005
+    },
+    "Sao Tome and Principe": {
+        "numericCode": 678,
+        "population": 187356
+    },
+    "Saudi Arabia": {
+        "numericCode": 682,
+        "population": 32248200
+    },
+    "Senegal": {
+        "numericCode": 686,
+        "population": 14799859
+    },
+    "Serbia": {
+        "numericCode": 688,
+        "population": 7076372
+    },
+    "Seychelles": {
+        "numericCode": 690,
+        "population": 91400
+    },
+    "Sierra Leone": {
+        "numericCode": 694,
+        "population": 7075641
+    },
+    "Singapore": {
+        "numericCode": 702,
+        "population": 5535000
+    },
+    "Slovakia": {
+        "numericCode": 703,
+        "population": 5426252
+    },
+    "Slovenia": {
+        "numericCode": 705,
+        "population": 2064188
+    },
+    "Somalia": {
+        "numericCode": 706,
+        "population": 11079000
+    },
+    "South Africa": {
+        "numericCode": 710,
+        "population": 55653654
+    },
+    "South Sudan": {
+        "numericCode": 728,
+        "population": 12131000
+    },
+    "Spain": {
+        "numericCode": 724,
+        "population": 46438422
+    },
+    "Sri Lanka": {
+        "numericCode": 144,
+        "population": 20966000
+    },
+    "Sudan": {
+        "numericCode": 729,
+        "population": 39598700
+    },
+    "Suriname": {
+        "numericCode": 740,
+        "population": 541638
+    },
+    "Sweden": {
+        "numericCode": 752,
+        "population": 9894888
+    },
+    "Switzerland": {
+        "numericCode": 756,
+        "population": 8341600
+    },
+    "Syria": {
+        "numericCode": 760,
+        "population": 18564000
+    },
+    "Tajikistan": {
+        "numericCode": 762,
+        "population": 8593600
+    },
+    "Tanzania": {
+        "numericCode": 834,
+        "population": 55155000
+    },
+    "Thailand": {
+        "numericCode": 764,
+        "population": 65327652
+    },
+    "Timor-Leste": {
+        "numericCode": 626,
+        "population": 1167242
+    },
+    "Togo": {
+        "numericCode": 768,
+        "population": 7143000
+    },
+    "Trinidad and Tobago": {
+        "numericCode": 780,
+        "population": 1349667
+    },
+    "Tunisia": {
+        "numericCode": 788,
+        "population": 11154400
+    },
+    "Turkey": {
+        "numericCode": 792,
+        "population": 78741053
+    },
+    "Uganda": {
+        "numericCode": 800,
+        "population": 33860700
+    },
+    "Ukraine": {
+        "numericCode": 804,
+        "population": 42692393
+    },
+    "United Arab Emirates": {
+        "numericCode": 784,
+        "population": 9856000
+    },
+    "United Kingdom": {
+        "numericCode": 826,
+        "population": 65110000
+    },
+    "Uruguay": {
+        "numericCode": 858,
+        "population": 3480222
+    },
+    "Uzbekistan": {
+        "numericCode": 860,
+        "population": 31576400
+    },
+    "Venezuela": {
+        "numericCode": 862,
+        "population": 31028700
+    },
+    "Vietnam": {
+        "numericCode": 704,
+        "population": 92700000
+    },
+    "Western Sahara": {
+        "numericCode": 732,
+        "population": 510713
+    },
+    "Yemen": {
+        "numericCode": 887,
+        "population": 27478000
+    },
+    "Zambia": {
+        "numericCode": 894,
+        "population": 15933883
+    },
+    "Zimbabwe": {
+        "numericCode": 716,
+        "population": 14240168
+    }
+}
